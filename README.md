@@ -29,7 +29,7 @@ that is most correlated with price.
 caculate the R^2.
 8. Fit a linear regression model to predict the 'price' using the feature
 'sqft_living' then calculate the R^2.
-9. Fit a linear regression model to predict the 'price' using the list of features. Then calculate the R^2. Take a screenshot of your code.
+9. Fit a linear regression model to predict the 'price' using the list of features. Then calculate the R^2. 
 10. Create a list of tuples, the first element in the tuple contains the name of the estimator:
       'scale'
       'polynomial'
@@ -46,4 +46,4 @@ regularization parameter to 0.1, and calculate the R^2 using the test data.
 14. Perform a second order polynomial transform on both the training data and
 testing data. Create and fit a Ridge regression object using the training data, set
 the regularisation parameter to 0.1, and calculate the R^2 utilising the test data
-provided. Take a screenshot of your code and the R^2.
+provided. 
